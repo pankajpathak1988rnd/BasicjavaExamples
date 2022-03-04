@@ -19,6 +19,7 @@ public class frequencyOfCharacterInGivenString {
 		}
 		
 		System.out.println("Frequency for characher " + ch + " is " + count );
+		//System.out.println("Frequency for characher " + ch + " is " + count );
 						
 
 	}
