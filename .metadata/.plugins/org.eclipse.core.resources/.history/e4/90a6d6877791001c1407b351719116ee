@@ -1,0 +1,13 @@
+
+public class CharAtExample {
+
+	public static void main(String[] args) {
+	
+		
+		String S1="Tutorial";
+		
+		System.out.println(S1.charAt(5));
+
+	}
+
+}

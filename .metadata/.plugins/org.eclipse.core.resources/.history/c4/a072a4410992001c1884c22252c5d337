@@ -1,0 +1,42 @@
+import java.util.ArrayList;
+
+public class CountofVowelsInGivenString {
+		
+	ArrayList<Character> al;
+	
+
+	
+	
+	
+	CountofVowelsInGivenString()
+	{
+		al=new ArryList<Character>();
+		al.add('A');al.add('a');
+		al.add('E');al.add('e');
+		al.add('I');al.add('i');
+		al.add('O');al.add('o');
+		al.add('U');al.add('u');
+	}
+		
+	
+	//Method to find if the Character is vowel
+	
+	private boolean isVowe(char c) {
+		
+		
+		
+	}
+	
+	
+	
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+
+	}
+
+}

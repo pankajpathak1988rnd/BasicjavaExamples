@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class CountofVowelsInGivenString {
+		
+	ArrayList<Character> al; 
+	
+	al=new ArryList<Character>();
+	
+	
+		
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+
+	}
+
+}

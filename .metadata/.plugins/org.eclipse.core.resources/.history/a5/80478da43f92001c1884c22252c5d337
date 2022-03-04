@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class VowelCountsInGivenString {
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+
+		
+		
+		Scanner MyString= new Scanner(System.in);
+		
+		System.out.println("Enter the String for which vowel count is neeed");
+		
+		String Str=MyString.nextLine();
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

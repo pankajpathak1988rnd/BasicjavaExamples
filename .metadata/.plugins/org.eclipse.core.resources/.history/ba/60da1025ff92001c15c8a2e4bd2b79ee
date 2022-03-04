@@ -1,0 +1,11 @@
+
+public class TestStringFormatter {
+
+	public static void main(String[] args) {
+		
+
+	    System.out.println(ReverseString.reverseString("Python is best language"));
+		
+	}
+
+}
